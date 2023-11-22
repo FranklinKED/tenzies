@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-11-22 at 3 34 31 PM](https://github.com/FranklinKED/tenzies/assets/71602470/0dac4928-c97f-4bcb-a3e8-bcf918bec5e3)
 # crkKeqHP
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
